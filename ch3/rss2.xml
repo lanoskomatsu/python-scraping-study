@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>https://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2021</copyright>
+ <lastBuildDate>Sun, 05 Sep 2021 17:52:00 +0900</lastBuildDate>
+ <image>
+  <url>https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>https://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2021年9月3日号　『JJ』のリリーススケジュール・x32向けコンフィグのドロップ ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/03</link>
+  <description>impishのリリースまで一ヶ月強を残し，『次の次』のUbuntu，22.04 LTSのリリースに関する暫定スケジュールが公開されています。</description>
+  <pubDate>Fri, 03 Sep 2021 09:46:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/03</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>はじめに ── 目で見て体験！ Kubernetesのしくみ —— Lチカでわかるクラスタオーケストレーション</title>
+  <link>https://gihyo.jp/book/2021/978-4-297-12319-2/content/preface</link>
+  <description>本書は，Kubernetesの動作を確認し，読者の方に実感を持ってもらうことを目的としています。</description>
+  <pubDate>Thu, 02 Sep 2021 15:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/2021/978-4-297-12319-2">目で見て体験！ Kubernetesのしくみ —— Lチカでわかるクラスタオーケストレーション</category>
+  <guid>https://gihyo.jp/book/2021/978-4-297-12319-2/content/preface</guid> 
+  <author>花井志生</author>
+ </item>
+ <item>
+  <title>2021年9月2日　縄張り争い ── 帰ってきた『技評ねこ部通信』</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0902</link>
+  <description>外ねこたちの仁義なき戦い…</description>
+  <pubDate>Thu, 02 Sep 2021 15:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/monthly-cat">帰ってきた『技評ねこ部通信』</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0902</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2021年9月第1週号 1位は，効果的な会社概要ページをデザインするヒント，気になるネタは，Apple、iCloudでメール非公開とカスタムドメインを可能に ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202109/02</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年8月23日～29日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 02 Sep 2021 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202109/02</guid> 
+  <author>アシカガコウジ</author>
+ </item>
+ <item>
+  <title>2021年9月第1週　iPad一強は終了，選択肢の増えたAndroidタブレット達 ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202109/02</link>
+  <description>2021年9月第1週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 02 Sep 2021 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202109/02</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>第681回　BluetoothヘッドセットでHD Voiceを使う ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0681</link>
+  <description>2021年10月にリリース予定のUbuntu 21.10ではPulseAudio 15.0が利用可能で，HD Voice（Wide Band Speech）のコーデックがサポートされます。そこで今回は実際に，現時点のUbuntu 21.10でHD Voiceが使えるか確認してみます。</description>
+  <pubDate>Wed, 01 Sep 2021 09:54:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0681</guid> 
+  <author>村田信人</author>
+ </item>
+ <item>
+  <title>第1回　中国が注目する「儲かるオープンソース」 ── 日本人が知らない中国オープンソース最前線 ―「嫌儲」「原理主義」のないOSS文化を読み解く</title>
+  <link>https://gihyo.jp/dev/serial/01/china-oss-frontline/0001</link>
+  <description>多くのスマートフォンやネットワーク機器を開発している中国からのOSSへの貢献が，ここ数年，大きく目立つようになってきました。LinuxカーネルV5.10のコミットは13.4％が中国からで，最も貢献の多い国の1つです。</description>
+  <pubDate>Wed, 01 Sep 2021 09:16:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/china-oss-frontline">日本人が知らない中国オープンソース最前線 ―「嫌儲」「原理主義」のないOSS文化を読み解く</category>
+  <guid>https://gihyo.jp/dev/serial/01/china-oss-frontline/0001</guid> 
+  <author>高須正和</author>
+ </item>
+ <item>
+  <title>第3回　研究を実務に活かすには ―執筆陣がお勧めする書籍の「使いどころ」 ── 『機械学習を解釈する技術』＆『施策デザインのための機械学習入門』著者陣によるクロストーク</title>
+  <link>https://gihyo.jp/news/interview/01/ml_engineer/0003</link>
+  <description>2021年8月に発売された『機械学習を解釈する技術』の著者である森下光之助氏と『施策デザインのための機械学習入門』を共著した齋藤優太氏，安井翔太氏の3人が集まり，執筆の経緯や書籍への想いについて語る，今回はその最終回です。</description>
+  <pubDate>Wed, 01 Sep 2021 09:15:40 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/interview/01/ml_engineer">『機械学習を解釈する技術』＆『施策デザインのための機械学習入門』著者陣によるクロストーク</category>
+  <guid>https://gihyo.jp/news/interview/01/ml_engineer/0003</guid> 
+  <author>高屋卓也</author>
+ </item>
+ <item>
+  <title>第73回　新刊『オープンソースの教科書』，MySQL Autopilotリリース， PostgreSQLは関連セミナーとマイナーリリース ── OSSデータベース取り取り時報</title>
+  <link>https://gihyo.jp/dev/serial/01/oss-db-various-news/0073</link>
+  <description>この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。</description>
+  <pubDate>Wed, 01 Sep 2021 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/oss-db-various-news">OSSデータベース取り取り時報</category>
+  <guid>https://gihyo.jp/dev/serial/01/oss-db-various-news/0073</guid> 
+  <author>梶山隆輔，溝口則行</author>
+ </item>
+ <item>
+  <title>WEB+DB PRESS Vol.123へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ</title>
+  <link>https://gihyo.jp/dev/serial/01/readers-forum/vol124</link>
+  <description>こんにちはこんにちは!! 暑いですね……！ ぼくはこの季節になると，そうめんばかり食べています。手軽に作れるし，カツオのたたきなどと合わせると，さっぱりしていておいしいですね！ お勧めです！</description>
+  <pubDate>Wed, 01 Sep 2021 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/readers-forum">はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ</category>
+  <guid>https://gihyo.jp/dev/serial/01/readers-forum/vol124</guid> 
+  <author>はまちや2，竹原</author>
+ </item>
+ <item>
+  <title>2021年8月31日　お祭り騒ぎはもうおしまい ―Linux 5.14リリース，コアスケジューリングが統合 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202108/31</link>
+  <description>Linus Torvaldsは8月29日，「Linux 5.14」の正式リリースを発表した。</description>
+  <pubDate>Tue, 31 Aug 2021 16:38:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202108/31</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>10月開催「PyCon JP 2021」チケット販売中 ―早期購入でパーティーフード付き！ ── インフォメーション</title>
+  <link>https://gihyo.jp/news/info/2021/08/3001</link>
+  <description>10/15, 16にオンラインとオンサイトでのハイブリッド開催が予定されているPythonユーザの集い「PyCon JP 2021」のチケットが発売された。</description>
+  <pubDate>Mon, 30 Aug 2021 14:09:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/info">インフォメーション</category>
+  <guid>https://gihyo.jp/news/info/2021/08/3001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>グレープシティ，JavaScriptライブラリ「Wijmo」新バージョン2021J v2，UIコンポーネントセット「ComponentOne」新バージョン2021 v2リリース ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2021/08/2701</link>
+  <description>グレープシティ株式会社は，同社のJavaScriptライブラリ「Wijmo」の新バージョン2021J v2を2021年8月25日に，UIコンポーネントセット「ComponentOne」の新バージョン2021 v2を同8月27日にリリースした。</description>
+  <pubDate>Fri, 27 Aug 2021 17:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2021/08/2701</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>クラウド業界の未来を切り拓くイベント「JAIPA Cloud Conference 2021」開催間近 ── インフォメーション</title>
+  <link>https://gihyo.jp/news/info/2021/08/2701</link>
+  <description>一般社団法人日本インターネットプロバイダー協会は，「JAIPA Cloud Conference 2021」を2021年9月2日（木）にオンラインで開催する。</description>
+  <pubDate>Fri, 27 Aug 2021 11:04:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/info">インフォメーション</category>
+  <guid>https://gihyo.jp/news/info/2021/08/2701</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2021年8月27日号　Ubuntu 20.04.3のリリース・impishのFeature Freeze ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202108/27</link>
+  <description>延期になっていたUbuntu 20.04.3が無事にリリースされました。また，impishの開発はFeature Freezeを迎え，新機能の投入には一定の制限がかかるようになりました。</description>
+  <pubDate>Fri, 27 Aug 2021 09:52:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202108/27</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>2021年8月26日　Happy Anniversary! Linux，30歳になる ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202108/26</link>
+  <description>8月25日，Linuxは誕生からちょうど30周年を迎えた。</description>
+  <pubDate>Thu, 26 Aug 2021 15:43:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202108/26</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第22回　クラウド移行が企業のサステナビリティを加速する ―AWS/Amazonが本気で取り組む&amp;quot;持続可能なビジネス&amp;quot;の構築 ── IT Cutting Edge ─世界を変えるテクノロジの最前線</title>
+  <link>https://gihyo.jp/lifestyle/serial/01/it_cutting_edge/0022</link>
+  <description>Amazonは2025年までに，事業に必要な電力を100％再生可能エネルギーで賄うべく歩みを進めている―AWS アジア太平洋地域 兼 日本担当 エネルギー政策責任者 ケン・ハイグ氏はこう明言しました。</description>
+  <pubDate>Thu, 26 Aug 2021 14:13:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/serial/01/it_cutting_edge">IT Cutting Edge ─世界を変えるテクノロジの最前線</category>
+  <guid>https://gihyo.jp/lifestyle/serial/01/it_cutting_edge/0022</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>2021年8月第4週　Android OSの開発にRustが使われる ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202108/26</link>
+  <description>2021年8月第4週のAndroid関連のニュースです。
+</description>
+  <pubDate>Thu, 26 Aug 2021 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202108/26</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2021年8月第4週号 1位は，UXの「神話」としてまだ信じられている6つの間違ったルール，気になるネタは，Facebook，メタバース「Horizon Workrooms」のβ版公開 「Oculus Quest 2」で世界中から参加可能 ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202108/26</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年8月16日～22日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 26 Aug 2021 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202108/26</guid> 
+  <author>アシカガコウジ</author>
+ </item>
+ <item>
+  <title>第680回　LXDコンテナ上のWindowsでWSL環境を整える ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0680</link>
+  <description>第679回ではLXD/VMの上にWindows 10をインストールしました。 今回は，このLXDコンテナ上のWindowsでWSL2を楽しむ方法をお伝えします。</description>
+  <pubDate>Wed, 25 Aug 2021 09:49:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0680</guid> 
+  <author>柴田充也</author>
+ </item>
+</channel>
+</rss>
