@@ -8,4 +8,4 @@ cities = [
     {'rank': 5, 'city': "イスタンブル", 'population': "14160467"},
 ]
 
-print(json.dumps(cities))
+print(json.dumps(cities, ensure_ascii=False, indent=2))
