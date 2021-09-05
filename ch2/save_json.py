@@ -9,3 +9,6 @@ cities = [
 ]
 
 print(json.dumps(cities, ensure_ascii=False, indent=2))
+
+with open('top_cities.json', 'w') as f:
+    json.dump(cities, f)
